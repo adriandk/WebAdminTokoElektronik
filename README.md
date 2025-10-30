@@ -26,7 +26,7 @@ Sebelum menginstal project ini, pastikan komputer Anda sudah memiliki:
 ### 1. Clone Repository
 
 ```bash
-git clone 
+git clone https://github.com/adriandk/WebAdminTokoElektronik
 cd bnspProject
 ```
 
