@@ -66,13 +66,13 @@ DB_PASSWORD=
 CREATE DATABASE bnsp_project;
 ```
 
-### 7. Jalankan migrasi
+### 7. Jika ingin database yang bersih: Jalankan migrasi
 
 ```bash
 php artisan migrate
 ```
 
-### 8. Import data dari data.sql ke Database MySQL
+### 8. Jika ingin ada dummy data di table produk: Import data dari data.sql ke Database MySQL
 
 ### 9. Setup Storage
 
