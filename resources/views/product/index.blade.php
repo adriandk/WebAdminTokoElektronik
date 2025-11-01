@@ -65,7 +65,7 @@
                             <form action="{{ route('product.delete', $product->id) }}" method="POST" class="d-inline">
                                 @csrf
                                 @method('DELETE')
-                                <button onclick="return confirm('Yakin ingin menghapus klaim ini?')"
+                                <button onclick="return confirm('Yakin ingin menghapus produk ini?')"
                                     class="btn btn-danger btn-sm">Hapus</button>
                             </form>
                         </td>
